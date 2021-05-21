@@ -2,4 +2,4 @@ module github.com/bartimus-primed/egf
 
 go 1.16
 
-require github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210410170116-ea3d685f79fb
+require github.com/gen2brain/raylib-go v0.0.0-20210227124741-9d258bad6516
